@@ -8,5 +8,15 @@
       "id": 1,
       "avatar": "https://sm.ign.com/ign_ap/cover/a/avatar-gen/avatar-generations_hugw.jpg"
     }
+  ],
+  "travels": [
+    {
+      "id": 1,
+      "userId": 1,
+      "name": "somewhere",
+      "cityCountry": "city/country",
+      "image": "image",
+      "category": "travel category(Beaches)"
+    }
   ]
 }
