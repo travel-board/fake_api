@@ -1,6 +1,6 @@
 {
   "users": [
-    {  
+    {
       "email": "kenzinho@mail.com",
       "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
       "name": "Kenzinho",
@@ -8,14 +8,5 @@
       "avatar": "https://sm.ign.com/ign_ap/cover/a/avatar-gen/avatar-generations_hugw.jpg"
     }
   ],
-  "travels": [
-    {
-      "id": 1,
-      "userId": 1,
-      "name": "somewhere",
-      "cityCountry": "city/country",
-      "image": "image",
-      "category": "travel category(Beaches)"
-    }
-  ]
+  "travels": []
 }
